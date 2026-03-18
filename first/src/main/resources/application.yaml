@@ -1,3 +1,6 @@
 spring:
   application:
     name: first
+  threads:
+    virtual:
+      enabled: true
